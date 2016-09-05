@@ -1,0 +1,44 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: expanded # compressed # expanded
+
+# permalink and highlighter
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : pygments
+
+# SEO settings
+title: GoImplement.it - HL7 v2, v3, FHIR, CDA, IHE and Conecthatons
+description: "GoImplement.it - HL7 v2, v3, FHIR, CDA, IHE and Conecthatons. We know all about healthcare IT standards so you can focus on your core product."
+keywords: "HL7 v2, v3, FHIR, CDA, IHE, Conecthatons, consultancy, concultants, java, programming"
+
+# Site settings
+url: goimplementit.github.io
+baseurl: ""
+# baseurl: ""
+
+# Author settings
+author:
+  name      : GoImplement.it
+  bio       : HL7 v2, v3, FHIR, CDA, IHE and Conecthatons. We know all about healthcare IT standards so you can focus on your core product.
+  thumb     : /images/logo.png
+  email     : goimplementit@hlauritsen.dk
+  url       : https://github.com/goimplementit
+  github    : https://github.com/goimplementit
+  twitter   : http://twitter.com/goimplementit
+  linkedin  : http://linkedin.com/in/goimplementit
+
+# google_analytics: UA-52446115-1
+repo: goimplementit.github.io
+
+# comments
+disqus_shortname: "goimplementit"
