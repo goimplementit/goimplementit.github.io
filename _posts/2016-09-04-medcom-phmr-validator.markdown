@@ -13,4 +13,4 @@ GoImplement.it created a validation REST service with java and schematron. Moreo
 *Simple user interface for validating both textual and file input.
 GoImplement.it created both the user interface and the backend validation service*
 
-Interested in knowing more? Have a look at Medcoms project page for PHMR: (http://medcom.dk/standarder/personal-health-monitoring-report-phmr), which as an added bonus has a link to a live version of the validator.
+Interested in knowing more? [Have a look at Medcoms project page for PHMR](http://medcom.dk/standarder/personal-health-monitoring-report-phmr), which as an added bonus has a link to a live version of the validator.
