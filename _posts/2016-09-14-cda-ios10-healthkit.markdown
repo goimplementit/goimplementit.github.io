@@ -15,5 +15,6 @@ First step in accommodating these patients is to export their medical records no
 
 Luckilly GoImplement.it created an easy to use HL7 CDA document [validator](http://hl7-jkiddo.rhcloud.com/), enabling developers and healthcare professionals to check whether or not their CDA documents are ready for Apple HealthKit.
 
+
 ![HL7 CDA/CCD validator by GoImplement.it]({{ '/images' | prepend: site.baseurl }}/goimplementit-cda-validator.png)
 *Are you ready for Apple HealthKit. Check if your HL7 CDA and CCD documents are valid today*
