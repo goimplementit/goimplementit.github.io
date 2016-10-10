@@ -16,16 +16,18 @@ subtitle: Read all about the cool stuff we've done
   </header>
 
   {% for post in site.posts %}
-    <article class="post-item container">
-      <header>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h1 class="post-title">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h1>
-      </header>
+    {% if post.visible==1 %}
+      <article class="post-item container">
+        <header>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h1 class="post-title">
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h1>
+        </header>
 
-      <p>{{ post.content | strip_html | truncatewords: 56 }} <a href="{{ post.url | prepend: site.baseurl }}" title="Permalink to: {{ post.title }}" class="read-more">Read more</a></p>
-    </article>
+        <p>{{ post.content | strip_html | truncatewords: 56 }} <a href="{{ post.url | prepend: site.baseurl }}" title="Permalink to: {{ post.title }}" class="read-more">Read more</a></p>
+      </article>
+    {% endif %}
   {% endfor %}
 
 </section>
