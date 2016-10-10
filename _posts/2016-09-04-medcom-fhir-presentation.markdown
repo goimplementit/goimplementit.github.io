@@ -4,6 +4,7 @@ title:  "Medcom needed an introduction to HL7 FHIR, GoImplement.it provided one"
 permalink:  "medcom-phmr-presentation"
 date:   2016-09-05 10:54:15 +0100
 categories: HL7, FHIR, presentation
+visible: 1
 ---
 Medcom had heard a lot of good things about the new kid on the block, HL7 FHIR,
 and where in need of a presentation.
