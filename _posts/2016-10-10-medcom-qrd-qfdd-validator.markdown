@@ -8,8 +8,8 @@ visible: 0
 ---
 Medcom has made two danish profiles based on the following CDA standards:
 
-- Questionnaire Form Definition Document
-- Questionnaire Response Document
+- Questionnaire Form Definition Document  
+- Questionnaire Response Document  
 
 As we all know every self-respecting standard MUST have a validation tool in order to assist in the adoption of the standard. Because of this Medcom's PHMR validator is going back to school to learn QFDD and QRD with respect to the danish extensions.
 
