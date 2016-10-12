@@ -8,8 +8,8 @@ visible: 0
 ---
 Medcom has made two danish profiles based on the following CDA standards:
 
-    - Questionnaire Form Definition Document (QFDD)  
-    - Questionnaire Response Document (QRD)  
+1) Questionnaire Form Definition Document (QFDD)  
+2) Questionnaire Response Document (QRD)  
 
 In the context of remotely monitoring patients these two standards are important, since the electronic interchange of patients’ vital signs is but the first step in enabling effective dialogue. Of equal importance is the electronic interchange of meaningful questions and answers between the practitioner and the patient. 
 
