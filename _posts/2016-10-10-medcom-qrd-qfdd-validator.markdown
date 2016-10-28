@@ -4,7 +4,7 @@ title:  "QFDD, QRD. We know what it is, do you?"
 permalink:  "medcom-qrd-qfdd-validator"
 date:   2016-10-10 20:58:35 +0100
 categories: HL7, CDA, QRD, QFDD
-visible: 0
+visible: 1
 ---
 Medcom has made two danish profiles based on the following CDA standards:
 
