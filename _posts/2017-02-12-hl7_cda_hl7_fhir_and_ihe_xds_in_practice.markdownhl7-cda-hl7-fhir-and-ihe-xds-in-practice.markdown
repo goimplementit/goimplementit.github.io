@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "\"Could you give us an introduction to HL7 CDA, HL7 FHIR and IHE XDS in practice?\", Go.it: \"YES WE CAN!\""
+title:  "IHE XDS, HL7 CDA, HL7 FHIR... HELP WANTED"
 permalink:  "hl7-cda-hl7-fhir-and-ihe-xds-in-practice"
 date:   2017-04-12 11:23:35 +0100
 categories: HL7, CDA, FHIR, XDS
