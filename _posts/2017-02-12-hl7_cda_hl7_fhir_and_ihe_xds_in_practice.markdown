@@ -6,3 +6,5 @@ date:   2017-04-12 11:23:35 +0100
 categories: HL7, CDA, FHIR, XDS
 visible: 1
 ---
+
+A local dansih company...
