@@ -14,7 +14,7 @@ sass:
 # permalink and highlighter
 permalink   : /:year/:title/
 markdown    : kramdown
-highlighter : pygments
+highlighter : rouge
 
 # SEO settings
 title: GoImplement.it - HL7 v2, v3, FHIR, CDA, IHE and Conecthatons
