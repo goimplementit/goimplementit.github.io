@@ -12,3 +12,6 @@ IHE XDS is not necessarily easy to understand or implement. HL7 CDA can be quite
 When in need of an introduction to international healthcare standards it is nice to be able get an in-person introduction with special focus on implementation related challenges. 
 
 GoImplement.it recently helped a local danish company diving into the world of international healthcare standards.
+
+![Help Wanted]({{ '/images' | prepend: site.baseurl }}/Wanted.png)
+*Need help undertanding the complicated world of internation healthcare IT standards?*
