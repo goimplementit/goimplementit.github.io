@@ -13,5 +13,6 @@ When in need of an introduction to international healthcare standards it is nice
 
 GoImplement.it recently helped a local danish company diving into the world of international healthcare standards.
 
+
+
 ![Help Wanted]({{ '/images' | prepend: site.baseurl }}/Wanted.png)
-*Need help undertanding the complicated world of internation healthcare IT standards?*
